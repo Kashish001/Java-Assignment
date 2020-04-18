@@ -1,4 +1,4 @@
-Question : Write a program to create following scenario:
+Write a program to create following scenario:
 A class Person having :
 private field : name  to store name of person
 abstract method : void display()  which will be used to display details of person Use parameterized constructor to initialize these attributes. Make setter & getter methods for the attribute.
